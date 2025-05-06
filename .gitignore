@@ -1,0 +1,16 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore large files
+*.h5
+*.pkl
+*.pt
+*.csv
+
+# System files
+.DS_Store
+Thumbs.db
